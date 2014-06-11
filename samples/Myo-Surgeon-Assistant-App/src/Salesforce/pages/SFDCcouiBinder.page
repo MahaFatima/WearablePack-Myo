@@ -1,3 +1,12 @@
+<!--
+/*
+ * @author Ammar Alammar 
+ * @created_date 2014-01-30
+ * @description a VF page to expose APex remote methods for the Coherent UI Binder in the Unity3D engine
+ * 
+ */
+-->
+
 <apex:page controller="SFDCcouiBinderController" sidebar="false" showHeader="false" standardStylesheets="false" docType="html-5.0">
     
     <apex:includeScript value="{!$Resource.jQuery2}"  />  
