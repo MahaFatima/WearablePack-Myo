@@ -5,9 +5,9 @@
 - Myo Developer UIL - https://developer.thalmic.com/apply/
 
 ##Step 2 - Set up Demo SFDC org
-- Login to the Demo org
-- Username - aalammar@myo.com
-- Pasword - HappyMyo2014
+- Login to your demo org
+- Username - (created in your demo org)
+- Pasword - (created in your demo org)
 
 After logging in you will need to go to: Setup/Security Controls/Network Access
 From here add the IP address to the "Trusted IP Ranges"
