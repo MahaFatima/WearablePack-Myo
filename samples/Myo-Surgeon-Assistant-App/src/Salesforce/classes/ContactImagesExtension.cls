@@ -1,4 +1,13 @@
-public with sharing class ContactImagesExtension{
+/*
+ * @author Ammar Alammar  
+ * @created_date 2014-01-30
+ * @description A controller extension to retrieve the patient image link 
+ *              to be used in a merge field within the patientInfo page
+ * @version 1.03
+ * 
+ */
+ 
+ public with sharing class ContactImagesExtension{
  
     private ApexPages.standardController controller;
     private Contact patient;
