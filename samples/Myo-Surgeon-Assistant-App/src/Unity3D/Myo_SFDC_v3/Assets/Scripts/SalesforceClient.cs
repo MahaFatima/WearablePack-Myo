@@ -4,7 +4,7 @@
  * @last_modified_by Ammar Alammar
  * @last_modified_date 2014-06-06
  * @description Client class of the Salesforce REST API wrapper for Unity 3d.
- * @version 1..03
+ * @version 1.03
  * 
  */
 
