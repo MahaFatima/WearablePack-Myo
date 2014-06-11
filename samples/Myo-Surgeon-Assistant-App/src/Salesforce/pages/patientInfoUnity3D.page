@@ -1,4 +1,14 @@
-<apex:page standardController="Contact" extensions="ContactImagesExtension" showHeader="false" sidebar="false"  standardStylesheets="false">
+<!--
+/*
+ * @author Ammar Alammar  
+ * @created_date 2014-01-30
+ * @description The patient Info VF page that is embedded in the application
+ * @version 1.03
+ * 
+ */
+-->
+
+ <apex:page standardController="Contact" extensions="ContactImagesExtension" showHeader="false" sidebar="false"  standardStylesheets="false">
     <head>
         <style type="text/css">
             h1,h2,h3,h4,h5,h6 {
