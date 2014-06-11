@@ -109,6 +109,54 @@
  <Reference Include="Library\ScriptAssemblies\Assembly-UnityScript">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript.dll</HintPath>
  </Reference>
+ <Reference Include="Assets\JMO Assets\Editor\JMOAssets">
+ <HintPath>Assets\JMO Assets\Editor\JMOAssets.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Myo Samples\PlayMaker\PlayMaker">
+ <HintPath>Assets\Myo Samples\PlayMaker\PlayMaker.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Myo Samples\PlayMaker\Editor\PlayMakerEditor">
+ <HintPath>Assets\Myo Samples\PlayMaker\Editor\PlayMakerEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Myo Samples\PlayMaker\Editor\PlayMakerEditorResources">
+ <HintPath>Assets\Myo Samples\PlayMaker\Editor\PlayMakerEditorResources.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Myo Samples\PlayMaker\Editor\de\PlayMakerEditor.de.resources">
+ <HintPath>Assets\Myo Samples\PlayMaker\Editor\de\PlayMakerEditor.de.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Myo Samples\PlayMaker\Editor\es-ES\PlayMakerEditor.es-ES.resources">
+ <HintPath>Assets\Myo Samples\PlayMaker\Editor\es-ES\PlayMakerEditor.es-ES.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Myo Samples\PlayMaker\Editor\fr\PlayMakerEditor.fr.resources">
+ <HintPath>Assets\Myo Samples\PlayMaker\Editor\fr\PlayMakerEditor.fr.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Myo Samples\PlayMaker\Editor\it\PlayMakerEditor.it.resources">
+ <HintPath>Assets\Myo Samples\PlayMaker\Editor\it\PlayMakerEditor.it.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Myo Samples\PlayMaker\Editor\ja\PlayMakerEditor.ja.resources">
+ <HintPath>Assets\Myo Samples\PlayMaker\Editor\ja\PlayMakerEditor.ja.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Myo Samples\PlayMaker\Editor\nl\PlayMakerEditor.nl.resources">
+ <HintPath>Assets\Myo Samples\PlayMaker\Editor\nl\PlayMakerEditor.nl.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Myo Samples\PlayMaker\Editor\pt-BR\PlayMakerEditor.pt-BR.resources">
+ <HintPath>Assets\Myo Samples\PlayMaker\Editor\pt-BR\PlayMakerEditor.pt-BR.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Myo Samples\PlayMaker\Editor\sv-SE\PlayMakerEditor.sv-SE.resources">
+ <HintPath>Assets\Myo Samples\PlayMaker\Editor\sv-SE\PlayMakerEditor.sv-SE.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Myo Samples\PlayMaker\Editor\zh-CN\PlayMakerEditor.zh-CN.resources">
+ <HintPath>Assets\Myo Samples\PlayMaker\Editor\zh-CN\PlayMakerEditor.zh-CN.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Myo Samples\PlayMaker\Editor\zh-TW\PlayMakerEditor.zh-TW.resources">
+ <HintPath>Assets\Myo Samples\PlayMaker\Editor\zh-TW\PlayMakerEditor.zh-TW.resources.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Plugins\CoherentUIMobileNet">
+ <HintPath>Assets\Plugins\CoherentUIMobileNet.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Plugins\CoherentUINet">
+ <HintPath>Assets\Plugins\CoherentUINet.dll</HintPath>
+ </Reference>
  <Reference Include="\Applications\Unity\Unity.app\Contents\Frameworks\Managed\UnityEditor.Graphs">
  <HintPath>\Applications\Unity\Unity.app\Contents\Frameworks\Managed\UnityEditor.Graphs.dll</HintPath>
  </Reference>
@@ -120,54 +168,6 @@
  </Reference>
  <Reference Include="\Applications\Unity\Unity.app\Contents\PlaybackEngines\AndroidPlayer\EditorExtensions\UnityEditor.Android.Extensions">
  <HintPath>\Applications\Unity\Unity.app\Contents\PlaybackEngines\AndroidPlayer\EditorExtensions\UnityEditor.Android.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Plugins\CoherentUINet">
- <HintPath>Assets\Plugins\CoherentUINet.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Myo Samples\PlayMaker\Editor\PlayMakerEditorResources">
- <HintPath>Assets\Myo Samples\PlayMaker\Editor\PlayMakerEditorResources.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Myo Samples\PlayMaker\Editor\PlayMakerEditor">
- <HintPath>Assets\Myo Samples\PlayMaker\Editor\PlayMakerEditor.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Myo Samples\PlayMaker\Editor\zh-TW\PlayMakerEditor.zh-TW.resources">
- <HintPath>Assets\Myo Samples\PlayMaker\Editor\zh-TW\PlayMakerEditor.zh-TW.resources.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Myo Samples\PlayMaker\Editor\zh-CN\PlayMakerEditor.zh-CN.resources">
- <HintPath>Assets\Myo Samples\PlayMaker\Editor\zh-CN\PlayMakerEditor.zh-CN.resources.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Myo Samples\PlayMaker\Editor\es-ES\PlayMakerEditor.es-ES.resources">
- <HintPath>Assets\Myo Samples\PlayMaker\Editor\es-ES\PlayMakerEditor.es-ES.resources.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Myo Samples\PlayMaker\Editor\it\PlayMakerEditor.it.resources">
- <HintPath>Assets\Myo Samples\PlayMaker\Editor\it\PlayMakerEditor.it.resources.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Myo Samples\PlayMaker\Editor\pt-BR\PlayMakerEditor.pt-BR.resources">
- <HintPath>Assets\Myo Samples\PlayMaker\Editor\pt-BR\PlayMakerEditor.pt-BR.resources.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Myo Samples\PlayMaker\Editor\de\PlayMakerEditor.de.resources">
- <HintPath>Assets\Myo Samples\PlayMaker\Editor\de\PlayMakerEditor.de.resources.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Myo Samples\PlayMaker\Editor\sv-SE\PlayMakerEditor.sv-SE.resources">
- <HintPath>Assets\Myo Samples\PlayMaker\Editor\sv-SE\PlayMakerEditor.sv-SE.resources.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Myo Samples\PlayMaker\Editor\nl\PlayMakerEditor.nl.resources">
- <HintPath>Assets\Myo Samples\PlayMaker\Editor\nl\PlayMakerEditor.nl.resources.dll</HintPath>
- </Reference>
- <Reference Include="Assets\JMO Assets\Editor\JMOAssets">
- <HintPath>Assets\JMO Assets\Editor\JMOAssets.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Myo Samples\PlayMaker\Editor\ja\PlayMakerEditor.ja.resources">
- <HintPath>Assets\Myo Samples\PlayMaker\Editor\ja\PlayMakerEditor.ja.resources.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Plugins\CoherentUIMobileNet">
- <HintPath>Assets\Plugins\CoherentUIMobileNet.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Myo Samples\PlayMaker\Editor\fr\PlayMakerEditor.fr.resources">
- <HintPath>Assets\Myo Samples\PlayMaker\Editor\fr\PlayMakerEditor.fr.resources.dll</HintPath>
- </Reference>
- <Reference Include="Assets\Myo Samples\PlayMaker\PlayMaker">
- <HintPath>Assets\Myo Samples\PlayMaker\PlayMaker.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

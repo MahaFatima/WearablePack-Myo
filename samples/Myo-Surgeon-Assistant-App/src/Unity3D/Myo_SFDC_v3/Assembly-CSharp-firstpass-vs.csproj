@@ -85,14 +85,14 @@
      <None Include="Assets\Myo Samples\PlayMaker\Versions\readme.txt" />
      <None Include="Assets\JMO Assets\MatCap Shaders\Textures\BenSimonds\_Textures Readme.txt" />
      <None Include="Assets\JMO Assets\MatCap Shaders\_MatCap Shaders Readme.txt" />
- <Reference Include="Assets\Plugins\CoherentUINet">
- <HintPath>Assets\Plugins\CoherentUINet.dll</HintPath>
+ <Reference Include="Assets\Myo Samples\PlayMaker\PlayMaker">
+ <HintPath>Assets\Myo Samples\PlayMaker\PlayMaker.dll</HintPath>
  </Reference>
  <Reference Include="Assets\Plugins\CoherentUIMobileNet">
  <HintPath>Assets\Plugins\CoherentUIMobileNet.dll</HintPath>
  </Reference>
- <Reference Include="Assets\Myo Samples\PlayMaker\PlayMaker">
- <HintPath>Assets\Myo Samples\PlayMaker\PlayMaker.dll</HintPath>
+ <Reference Include="Assets\Plugins\CoherentUINet">
+ <HintPath>Assets\Plugins\CoherentUINet.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

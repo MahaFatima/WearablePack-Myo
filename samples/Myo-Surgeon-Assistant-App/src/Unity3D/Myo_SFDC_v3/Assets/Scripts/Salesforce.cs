@@ -19,8 +19,8 @@ namespace SFDC
 	
 	public class Salesforce : MonoBehaviour {
 		public string oAuthEndpoint = "https://login.salesforce.com/services/oauth2/token";
-		public string clientSecret = "6706312028241768971";
-		public string clientId = "3MVG9JZ_r.QzrS7hgE06VE3v.G4TK3_2ZeO92NXMrcAgls.anKyYnbDZemLDFipb7ydaZ3tYDChUO47lztAqK";
+		public string clientSecret = "000";
+		public string clientId = "000";
 		public string personalSecurityToken;
 
 		private string attachmentObjPrefix = "xRay";
