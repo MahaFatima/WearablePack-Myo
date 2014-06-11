@@ -1,4 +1,12 @@
-﻿using UnityEngine;
+﻿/*
+ * @author Ammar Alammar 
+ * @created_date 2014-01-30
+ * @description Class to bind 2-way events with salesforce using the Apex remote methods technique
+ * @version 1.03
+ * 
+ */
+
+using UnityEngine;
 using System.Collections;
 using Coherent.UI.Binding;
 using HutongGames.PlayMaker;
