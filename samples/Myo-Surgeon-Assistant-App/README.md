@@ -20,7 +20,7 @@ Unity3D plugin declarative development in Unity3D.  In short is the best visual 
 Import Demo-specific Unity3D script/package
 Import the Unity3D project assets, which includes the scene, C# scripts for salesforce connectivity, coherentUI bindings (remote actions from unity3D), etc.  Below is a link to a Unity Pachage to setup to run the app. In Unity3D click on Assets | Import | Custom Package then select the downloaded package file.
 
-Download at - https://drive.google.com/file/d/0B6UL-FHBmg0AZ2RBMDlURUNqcnM/edit?usp=sharing
+Download Unity 3D project form github.
 
 ##Step Four
 Configure the Salesforce.com org.
