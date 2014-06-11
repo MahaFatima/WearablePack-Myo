@@ -27,23 +27,9 @@ Configure the Salesforce.com org.
 Import the Salesforce customizations included in the 'Salesforce' folder into your Org. You can use a tool like [Workbench](https://workbench.developerforce.com/login.php) to help with this import process.
 
 ##Training the Myo
-<<<<<<< HEAD:samples/Myo-Surgeon-Assistant-App/README.md
-<<<<<<< HEAD:samples/Myo-Surgeon-Assistant-App/README.md
 
 The Alpha version of the myo requires you train the device before it can be use.  Thalmic Labs, the maker of the Myo has provided a simple easy to follow app that the user will need to run every time the device is put on.  This app can be found in the “myo-mac-sdk-alpha6a” folder provided by Thalmic Laps.
 
 ##Behind the Secens Video
 http://youtu.be/IIwV3-PBBhg
 
-=======
-The Alpha version of the myo requires you train the device before it can be use.  Thalmic Labs, the maker of the Myo has provided a simple easy to follow app that the user will need to run every time the device is put on.  This app can be found as a part of the Myo Alpha Developer Pack. Go to https://developer.thalmic.com/apply/ and sign up.
-
-##Behind the Secens Video
-http://youtu.be/IIwV3-PBBhg
->>>>>>> FETCH_HEAD:samples/Myo-Surgeon-Assistant-App/README.md
-=======
-The Alpha version of the myo requires you train the device before it can be use.  Thalmic Labs, the maker of the Myo has provided a simple easy to follow app that the user will need to run every time the device is put on.  This app can be found as a part of the Myo Alpha Developer Pack. Go to https://developer.thalmic.com/apply/ and sign up.
-
-##Behind the Secens Video
-http://youtu.be/IIwV3-PBBhg
->>>>>>> FETCH_HEAD:samples/Myo-Surgeon-Assistant-App/README.md
