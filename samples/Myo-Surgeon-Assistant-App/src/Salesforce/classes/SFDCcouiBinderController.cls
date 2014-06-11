@@ -1,4 +1,13 @@
-global with sharing class SFDCcouiBinderController{
+/*
+ * @author Ammar Alammar  
+ * @created_date 2014-01-30
+ * @description Custom COntroller for the SFDCcouiBinder page. This is where you can add remote 
+                methods to be eventually exposed to the Unity3D engine
+ * @version 1.03
+ * 
+ */
+ 
+ global with sharing class SFDCcouiBinderController{
   
     public SFDCcouiBinderController() { } // empty constructor
  
